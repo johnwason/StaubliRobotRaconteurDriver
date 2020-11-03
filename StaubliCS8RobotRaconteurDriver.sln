@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaubliCS8RobotRaconteurDriver", "StaubliCS8RobotRaconteurDriver\StaubliCS8RobotRaconteurDriver.csproj", "{757587EB-3C65-422A-B851-98041A406155}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{757587EB-3C65-422A-B851-98041A406155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{757587EB-3C65-422A-B851-98041A406155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{757587EB-3C65-422A-B851-98041A406155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{757587EB-3C65-422A-B851-98041A406155}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5B247F1-8A0C-4A44-9194-84B7F3690E6D}
+	EndGlobalSection
+EndGlobal
